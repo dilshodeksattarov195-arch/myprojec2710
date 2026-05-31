@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvecrypt",
+        "uuid": 2157160,
+        "checksum": "lxuz1"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
